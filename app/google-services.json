@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767382371785",
+    "project_id": "auth-af4fc",
+    "storage_bucket": "auth-af4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767382371785:android:8aa0934173b80819207c18",
+        "android_client_info": {
+          "package_name": "com.example.calander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767382371785-gbl9nti958hoocphgppe5e1murm56otk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAri5iqk8npvT5eL3cfGsOUEJXsG3HBoPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767382371785-gbl9nti958hoocphgppe5e1murm56otk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
